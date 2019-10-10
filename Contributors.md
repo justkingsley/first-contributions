@@ -6801,6 +6801,7 @@ Stephan Sharpe
 - [Adi Ben-Porat Givati](https://github.com/adibpg)
 - [Kostas Vasileiadis](https://github.com/konsvasi)
 - [Mariana Oliveira](https://github.com/tpoliveira-mariana)
+- [JustKingsley](https://github.com/justkingsley)
 - [Timothy](https://github.com/tdawes33)
 - [Blanca](https://github.com/helloart3mis)
 - [Epharra M](https://github.com/emendoza06)
